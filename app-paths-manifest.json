@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/Gallery/page": "app/Gallery/page.js",
+  "/album/page": "app/album/page.js",
+  "/album/[pictures]/page": "app/album/[pictures]/page.js",
+  "/favourite/page": "app/favourite/page.js"
+}
